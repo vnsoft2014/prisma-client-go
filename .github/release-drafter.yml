@@ -1,0 +1,19 @@
+name-template: v$NEXT_MINOR_VERSION
+sort-direction: ascending
+
+template: |
+  # v$NEXT_MINOR_VERSION
+
+  TODO: description
+
+  ## Major changes
+
+  TODO: list major changes
+
+  ## Changes
+
+  $CHANGES
+
+  ## Contributors
+
+  $CONTRIBUTORS
